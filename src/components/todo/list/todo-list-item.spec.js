@@ -1,5 +1,5 @@
 import React from 'react';
-import { TodoListItem } from '../../src/components/todo/list/TodoListItem';
+import { TodoListItem } from './TodoListItem';
 import { mount } from '@cypress/react';
 
 describe('Todo list item', () => {
